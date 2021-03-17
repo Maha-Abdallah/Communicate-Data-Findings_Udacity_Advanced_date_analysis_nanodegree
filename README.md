@@ -1,3 +1,3 @@
-# Communicate-Data-Findings_Udacity_Advanced_date_analysis_nondegree
+# Communicate-Data-Findings_Udacity_Advanced_date_analysis_nanodegree
 Dataset
-The data consists of information regarding 3.31 billion bike hiring, including age, timeframe, gender, station, and others. The dataset can be found in Ford GoBike website.
+The data consists of information regarding 3.31 billion bike hiring, including age, timeframe, gender, station, and others. The dataset can be found in Ford GoBike website. Bay Wheels (previously known as Ford GoBike) is a regional public bike sharing system in the San Francisco Bay Area, California. Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States with nearly 500,000 rides since the launch in 2017 and had about 10,000 annual subscribers as of January 2018. 
